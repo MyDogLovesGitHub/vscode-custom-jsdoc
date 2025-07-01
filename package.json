@@ -23,10 +23,6 @@
 			{
 				"command": "jsdoc.generateJSDoc",
 				"title": "Generate JSDoc"
-			},
-			{
-				"command": "jsdoc.generateJSDocV2",
-				"title": "Generate JSDoc - v2(not support yet)"
 			}
 		],
 		"configuration": [
